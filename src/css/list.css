@@ -1,0 +1,13 @@
+.space th{
+    width: 500px;
+}
+
+.bold td{
+    font-weight: 600;
+    margin-top: 30px;
+}
+.pages{
+       margin: 50px 0;
+       display: flex;
+       justify-content: center;
+}

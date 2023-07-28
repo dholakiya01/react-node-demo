@@ -1,0 +1,38 @@
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.check{
+    margin: 40px 0;
+    font-size: 20px;
+    font-weight: 400;
+}
+.check label{
+    font-weight: 500;
+}
+.check input{
+    margin: 0 10px;
+}
+.inputbox input{
+    margin: 10px 0;
+    width: 300px;
+    padding: 8px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.inputbox label{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(56, 51, 51);
+}
+.check button{
+    background-color: #4baf59;;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    padding: 10px 30px;
+    border-radius: 5px 32px 5px 32px;
+
+}
